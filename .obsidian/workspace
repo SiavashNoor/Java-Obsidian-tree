@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "470de89aadd512ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a789ad11a2874b04",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1d52b38a16cb9ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "796f19a72ed4186f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75df3c70e6ab96ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aba1d68dae6a1795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 480
+  },
+  "right": {
+    "id": "ca0560989e7e088e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5cffb87f1f0e892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39dce2dcf1328d28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a789ad11a2874b04",
+  "lastOpenFiles": [
+    "Refrence data types.md",
+    "Primitive data types.md",
+    "java basics.md",
+    "java.md",
+    "Obsidian help.md",
+    "java advanced.md",
+    "java executeable main method.md",
+    "java graphics.md",
+    "mutable and unmutable.md",
+    "java OOP.md"
+  ]
+}
