@@ -6,4 +6,11 @@
 - [[Refrence data types]]
 - [[java executeable main method ]]
 - [[mutable and unmutable]]
+- [[Type casting]]
+- [[Operators]]
+- [[if ...else]]
+- [[Switch Statements]]
+- [[While loop]]
+- [[Break/ continue]]
+- [[For Loop]]
 - 
