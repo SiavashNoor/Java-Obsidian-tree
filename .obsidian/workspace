@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "For Loop.md",
+            "file": "Arrays.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For Loop.md",
+                "file": "Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "879dac18292c7907",
   "lastOpenFiles": [
-    "For Loop.md",
+    "Arrays.md",
+    "Obsidian help.md",
     "java basics.md",
+    "Break   and   continue.md",
+    "Break and Continue/continue.md",
+    "For Loop.md",
     "While loop.md",
     "Switch Statements.md",
     "Ternary Operator.md",
-    "if ...else.md",
-    "Primitive data types.md",
-    "Operators.md",
-    "Obsidian help.md",
-    "Type casting.md"
+    "if ...else.md"
   ]
 }

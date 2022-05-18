@@ -11,6 +11,7 @@
 - [[if ...else]]
 - [[Switch Statements]]
 - [[While loop]]
-- [[Break/ continue]]
+- [[Break   and   continue]]
 - [[For Loop]]
+- [[Arrays]]
 - 
