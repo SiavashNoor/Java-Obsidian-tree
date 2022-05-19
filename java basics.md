@@ -14,4 +14,6 @@
 - [[Break   and   continue]]
 - [[For Loop]]
 - [[Arrays]]
+- [[methods]]
+- 
 - 
