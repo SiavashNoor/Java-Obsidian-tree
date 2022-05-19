@@ -7,8 +7,12 @@
         "id": "879dac18292c7907",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "java OOP.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "879dac18292c7907",
   "lastOpenFiles": [
+    "java OOP.md",
+    "java.md",
     "recursion.md",
     "methods.md",
     "method overloading.md",
@@ -91,8 +98,6 @@
     "java basics.md",
     "method parameters.md",
     "parameters and arguments.md",
-    "Arrays.md",
-    "Obsidian help.md",
-    "Break   and   continue.md"
+    "Arrays.md"
   ]
 }
