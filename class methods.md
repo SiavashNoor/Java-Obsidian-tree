@@ -26,3 +26,7 @@ public class Main {
   }
 ```
 
+## Access Methods With an Object
+```java
+objectName.methodName();
+```

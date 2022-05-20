@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "class methods.md",
+            "file": "constructors.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class methods.md",
+                "file": "constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ee91d06f62e670a9",
   "lastOpenFiles": [
-    "class methods.md",
+    "constructors.md",
     "java OOP.md",
+    "class methods.md",
+    "methods.md",
     "class attributes.md",
     "Arrays.md",
     "Break   and   continue.md",
     "java graphics.md",
     "Obsidian help.md",
-    "java.md",
-    "recursion.md",
-    "methods.md"
+    "java.md"
   ]
 }
