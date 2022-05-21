@@ -10,7 +10,8 @@ When the individual objects are created, they inherit all the variables and meth
 - [[class attributes]]
 - [[class methods]]
 - [[constructors]]
-
+- [[Modifiers]]
+- 
 
 
 
