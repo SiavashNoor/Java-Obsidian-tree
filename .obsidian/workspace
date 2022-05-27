@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "470de89aadd512ce",
+    "id": "d32223a208b7a019",
     "type": "split",
     "children": [
       {
-        "id": "ee91d06f62e670a9",
+        "id": "26d1d7ddec16f0fe",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "inheritance.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e1d52b38a16cb9ad",
+    "id": "2793764316607d57",
     "type": "split",
     "children": [
       {
-        "id": "796f19a72ed4186f",
+        "id": "b4177e8d30dd811e",
         "type": "tabs",
         "children": [
           {
-            "id": "75df3c70e6ab96ee",
+            "id": "b45ea6353e185fb1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "aba1d68dae6a1795",
+            "id": "fc25e5b0a2cc7dd5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,19 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "ca0560989e7e088e",
+    "id": "b92300e076b3af4d",
     "type": "split",
     "children": [
       {
-        "id": "c5cffb87f1f0e892",
+        "id": "7cea6c5f6f75e2e6",
         "type": "tabs",
         "children": [
           {
-            "id": "39dce2dcf1328d28",
+            "id": "7f7e0e8177747115",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee91d06f62e670a9",
+  "active": "26d1d7ddec16f0fe",
   "lastOpenFiles": [
-    "if ...else.md",
-    "For Loop.md",
-    "constructors.md",
-    "java OOP.md",
-    "class methods.md",
-    "methods.md",
-    "class attributes.md",
-    "Arrays.md",
-    "Break   and   continue.md",
-    "java graphics.md"
+    "inheritance.md",
+    "java OOP.md"
   ]
 }
