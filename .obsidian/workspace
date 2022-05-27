@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "java OOP.md",
+            "file": "inheritance.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java OOP.md",
+                "file": "inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "879dac18292c7907",
   "lastOpenFiles": [
-    "java OOP.md",
-    "java.md",
     "inheritance.md",
+    "java OOP.md",
     "Encapsulation.md",
+    "java.md",
     "Modifiers.md",
     "method overloading.md",
     "recursion.md",
