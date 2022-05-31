@@ -13,7 +13,8 @@ When the individual objects are created, they inherit all the variables and meth
 - [[Modifiers]]
 - [[Encapsulation]]
 - [[inheritance]]
-
-
+- [[Polymorphism]]
+- [[Inner classes]]
+- 
 
 
