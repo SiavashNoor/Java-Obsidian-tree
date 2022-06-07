@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "470de89aadd512ce",
+    "id": "a520fcb2bd9510df",
     "type": "split",
     "children": [
       {
-        "id": "879dac18292c7907",
+        "id": "8ba07d90141e38dc",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e1d52b38a16cb9ad",
+    "id": "072a13a17f8b114b",
     "type": "split",
     "children": [
       {
-        "id": "796f19a72ed4186f",
+        "id": "721abfe247b39a67",
         "type": "tabs",
         "children": [
           {
-            "id": "75df3c70e6ab96ee",
+            "id": "99ca4765a1079af4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "aba1d68dae6a1795",
+            "id": "65eb859042bab935",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,18 +49,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334
+    "width": 300
   },
   "right": {
-    "id": "ca0560989e7e088e",
+    "id": "a866c7f2088c9f24",
     "type": "split",
     "children": [
       {
-        "id": "c5cffb87f1f0e892",
+        "id": "9feac2fcb0fc33ca",
         "type": "tabs",
         "children": [
           {
-            "id": "39dce2dcf1328d28",
+            "id": "fc9dcf2c1dd99f86",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,17 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "879dac18292c7907",
-  "lastOpenFiles": [
-    "Inner classes.md",
-    "java OOP.md",
-    "Polymorphism.md",
-    "inheritance.md",
-    "Encapsulation.md",
-    "java.md",
-    "Modifiers.md",
-    "method overloading.md",
-    "recursion.md",
-    "methods.md"
-  ]
+  "active": "8ba07d90141e38dc",
+  "lastOpenFiles": []
 }
