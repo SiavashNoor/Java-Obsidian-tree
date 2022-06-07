@@ -15,6 +15,7 @@ When the individual objects are created, they inherit all the variables and meth
 - [[inheritance]]
 - [[Polymorphism]]
 - [[Inner classes]]
+- [[Abstraction]]
+- [[Interfaces]]
+- [[Enums]]
 - 
-
-
