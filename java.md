@@ -8,7 +8,7 @@ This is the core (root ) vault for my java knowledge tree
 2- JAVA OOP :                                     [[java OOP]]
 3- JAVA GRAPHICS :                          [[java graphics ]]
 4- JAVA ADVANCED :                        [[java advanced ]]
-5-  
+5-  JAVA COLLECTIONS :                  [[collections]]
 
 
 

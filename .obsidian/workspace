@@ -7,8 +7,12 @@
         "id": "8ba07d90141e38dc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "LinkedList.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LinkedList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,12 @@
   },
   "active": "8ba07d90141e38dc",
   "lastOpenFiles": [
+    "LinkedList.md",
+    "ArrayList.md",
+    "Arrays.md",
+    "collections.md",
+    "java.md",
+    "java advanced.md",
     "Enums.md",
     "java OOP.md",
     "Interfaces.md",
