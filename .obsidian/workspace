@@ -84,15 +84,15 @@
   },
   "active": "8922a85633038a92",
   "lastOpenFiles": [
+    "Vector.md",
     "LinkedList.md",
     "ArrayList.md",
-    "Arrays.md",
     "collections.md",
+    "Arrays.md",
     "java.md",
     "java advanced.md",
     "Enums.md",
     "java OOP.md",
-    "Interfaces.md",
-    "Abstraction.md"
+    "Interfaces.md"
   ]
 }
