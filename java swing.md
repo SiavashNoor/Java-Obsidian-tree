@@ -64,4 +64,17 @@ method.
 - [[JLabel]]
 - [[JPanel]]
 - [[JButton]]
+- [[Open new windows]]
+- [[JOptionsPane]]
+- [[JTextField]]
+- [[java ckeckbox]]
+- [[java radio button]]
+- [[JCombo]]
+- [[JSlider]]
+- [[JProgressBar]]
+- [[JMenu]]   Menu bar in java 
+- [[file chooser]]
+- [[Color chooser]]
+- [[KeyListener interface ]]
+- [[mouseListener]]
 - 
