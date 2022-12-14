@@ -15,5 +15,5 @@
 - [[For Loop]]
 - [[Arrays]]
 - [[methods]]
-- 
+- [[lambda]]
 - 
